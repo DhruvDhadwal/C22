@@ -1,2 +1,2 @@
-# C22
-Passing Values into functions
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
